@@ -4,4 +4,6 @@ function iterativeLog(array) {
   });
 }
 
-function
+function iterate() {
+  
+}
