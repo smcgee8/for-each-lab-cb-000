@@ -4,6 +4,8 @@ function iterativeLog(array) {
   });
 }
 
-function iterate() {
-  
+function iterate(callback) {
+  var array = ["snow", "snow", "ice"];
+  array.forEach(callback);
+  return array;
 }
